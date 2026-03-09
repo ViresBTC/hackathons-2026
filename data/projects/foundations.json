@@ -165,6 +165,23 @@
       "tech": ["Alby SDK", "NWC", "LNURL", "WebLN", "Vite"],
       "status": "building",
       "submittedAt": "2026-03-08"
+    },
+    {
+      "id": "SatsParty",
+      "name": "SatsParty",
+      "description": "Tu solucion para dar onboarding y wallets a los invitados de tu evento",
+      "team": [
+        {
+          "name": "Cyberpunk",
+          "github": "ViresBTC",
+          "role": "VibeCoder"
+        }
+      ],
+      "repo": "https://github.com/viresBTC/Satsparty",
+      "demo": "",
+      "tech": ["Alby SDK", "NWC", "LNURL", "WebLN", "Vite"],
+      "status": "building",
+      "submittedAt": "2026-03-09"
     }
   ],
   "_instructions": {
